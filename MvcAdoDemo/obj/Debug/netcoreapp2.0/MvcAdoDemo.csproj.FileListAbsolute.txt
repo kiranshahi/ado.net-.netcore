@@ -1,0 +1,10 @@
+E:\learn\MvcAdoDemo\bin\Debug\netcoreapp2.0\MvcAdoDemo.deps.json
+E:\learn\MvcAdoDemo\bin\Debug\netcoreapp2.0\MvcAdoDemo.runtimeconfig.json
+E:\learn\MvcAdoDemo\bin\Debug\netcoreapp2.0\MvcAdoDemo.runtimeconfig.dev.json
+E:\learn\MvcAdoDemo\bin\Debug\netcoreapp2.0\MvcAdoDemo.dll
+E:\learn\MvcAdoDemo\bin\Debug\netcoreapp2.0\MvcAdoDemo.pdb
+E:\learn\MvcAdoDemo\obj\Debug\netcoreapp2.0\MvcAdoDemo.csproj.CoreCompileInputs.cache
+E:\learn\MvcAdoDemo\obj\Debug\netcoreapp2.0\MvcAdoDemo.AssemblyInfoInputs.cache
+E:\learn\MvcAdoDemo\obj\Debug\netcoreapp2.0\MvcAdoDemo.AssemblyInfo.cs
+E:\learn\MvcAdoDemo\obj\Debug\netcoreapp2.0\MvcAdoDemo.dll
+E:\learn\MvcAdoDemo\obj\Debug\netcoreapp2.0\MvcAdoDemo.pdb
